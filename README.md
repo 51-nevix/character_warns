@@ -1,2 +1,9 @@
+![172b67733dcd86a7a06b8ed3ff96af78](https://user-images.githubusercontent.com/69389178/130133901-46abd2a0-734a-4a35-b081-a1d634151dc6.png)
 # character_warns
-A plugin, that writed for "Asterion Project" ©
+This plugin writed specialy for "Asterion Project" ©
+Invite to discord server: https://discord.gg/kSJxpfZTvT
+
+F.A.Q to using this plugin;
+
+To warn the character - you need to type /charwarn string: character string: reason.
+After the character get 3 warns, then he getting banned.
