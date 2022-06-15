@@ -3,6 +3,8 @@
 This plugin writed specialy for "Asterion Project" ©
 Invite to discord server: https://discord.gg/kSJxpfZTvT
 
+Special thanks to lifestorm (https://steamcommunity.com/id/lifestorm_/) for helping in plugin development. (more than 70% of the work was done with his help)
+
 F.A.Q to using this plugin;
 
 To warn the character - you need to type /charwarn string: character string: reason.
